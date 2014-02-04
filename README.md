@@ -3,11 +3,15 @@ Apache Error Log Cleaner (Python)
 
 A Python script that returns a list of Apache errors without repeated errors. 
 
-This helps you see trough important errors among thousands of repeated errors.
+This helps you see important errors among thousands of repeated errors.
 
 It can also show you errors grouped by frequency, with the most frequent errors on the top, or the least frequent errors at the top.
 
 This script should work on any platform.
+
+## Requirements
+
+- Python 2.7
 
 ## Usage
 
