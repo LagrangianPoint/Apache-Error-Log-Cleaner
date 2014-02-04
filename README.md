@@ -31,20 +31,20 @@ python logcleaner.py logFileName
 
 ### Example Usage
 
-	Showing the log file grouped by frequency
-	```
-	./logcleaner.py  -f logFileName 
-	```
-	
-	Sorts the log file by descending frequency
-	```
-	./logcleaner.py  -f -o DESC logFileName    
-	```
-	
-	Showing the first 20 errors grouped log lines 
-	```
-	./logcleaner.py  -s 20 logFileName       
-	```
+Showing the log file grouped by frequency
+```
+./logcleaner.py  -f logFileName 
+```
+
+Sorts the log file by descending frequency
+```
+./logcleaner.py  -f -o DESC logFileName    
+```
+
+Showing the first 20 errors grouped log lines 
+```
+./logcleaner.py  -s 20 logFileName       
+```
 
 ## Options:
 ```
